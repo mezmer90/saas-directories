@@ -45,9 +45,11 @@ csvgrep -c link_type -m Dofollow saas-directories.csv \
 
 Getting listed is the easy half. The part that actually moves the needle — and the part most founders quietly dread — is showing up *consistently* afterward: the launch-day posts, the follow-up threads, the carousels, the blog content that keeps a new product visible once the launch bump fades.
 
-That's the problem we spend our days on at **[AI Brand Factory](https://www.aibrandfactory.com)**. We're putting the finishing touches on a tool that turns a few details about your product into ready-to-post blog articles, social posts, carousels, and other content built specifically to promote a SaaS — in your voice, not generic filler. Everything lands in one place — your content **[Vault](https://vault.aibrandfactory.com)** — ready to schedule and ship.
+That's the problem we spend our days on at **[AI BrandFactory](https://www.aibrandfactory.com)** — an AI content platform that turns a few details about your product into blog posts, carousels, and social captions written to actually sound human (fact-checked, humanized, and built to pass AI-detection tools), not generic filler.
 
-If that's useful to you, we're letting a small group into the Vault early: **[request beta access →](https://vault.aibrandfactory.com)**. No pitch, no spam — just early access and a say in what we build.
+We're letting a small group in early — if that's useful, **[request beta access →](https://www.aibrandfactory.com)**. No pitch, no spam, just early access and a say in what we build.
+
+Prefer to run the play yourself? Our **[Vault](https://vault.aibrandfactory.com)** has 92 complete AI-marketing playbooks — step-by-step systems you can run today, including the *AI SaaS Launch Channel Map*, the *SaaS Customer Acquisition Funnel*, and the *Reddit Growth Playbook*. A new one is **free every month**.
 
 ## Contributing
 
@@ -59,4 +61,4 @@ The dataset is released under [CC BY 4.0](./LICENSE) — free to use, share, and
 
 ---
 
-<sub>Maintained by the team at [AI Brand Factory](https://www.aibrandfactory.com) · we build content tools for SaaS founders. If this list saved you time, a ⭐ helps others find it.</sub>
+<sub>Maintained by the team at [AI BrandFactory](https://www.aibrandfactory.com) · we build content tools for SaaS founders. If this list saved you time, a ⭐ helps others find it.</sub>
