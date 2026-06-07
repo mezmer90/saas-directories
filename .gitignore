@@ -1,0 +1,36 @@
+# This is a focused public dataset repo. Only the CSV, README, and LICENSE ship.
+
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+**/credentials.json
+
+# Internal Claude Code tooling, agents, and skills (not for publication)
+.claude/
+
+# Internal research pipeline + source dumps (regenerable, not part of the dataset)
+knowledge-base/
+
+# Internal working docs (the published artifact is the CSV)
+SAAS-DIRECTORIES-COMPLETE.md
+SAAS-DIRECTORIES-MASTER-LIST.md
+SAAS-DIRECTORIES-PRIORITY.md
+
+# Build helper
+.build-csv.py
+.env.example
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# OS / editor noise
+.DS_Store
+*.log
+.vscode/
+.idea/
