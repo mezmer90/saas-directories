@@ -49,7 +49,7 @@ That's the problem we spend our days on at **[AI BrandFactory](https://www.aibra
 
 We're letting a small group in early — if that's useful, **[request beta access →](https://www.aibrandfactory.com)**. No pitch, no spam, just early access and a say in what we build.
 
-Prefer to run the play yourself? Our **[Vault](https://vault.aibrandfactory.com)** has 92 complete AI-marketing playbooks — step-by-step systems you can run today, including the *AI SaaS Launch Channel Map*, the *SaaS Customer Acquisition Funnel*, and the *Reddit Growth Playbook*. A new one is **free every month**.
+Prefer to run the play yourself? Our **[Vault](https://vault.aibrandfactory.com)** has 92 complete AI-marketing playbooks — step-by-step systems you can run today, including the *AI SaaS Launch Channel Map*, the *SaaS Customer Acquisition Funnel*, and the *Reddit Growth Playbook*. A new one is **free every month**, single playbooks are $7, or it's a one-time $89 for all 92 (no subscription — yours to keep forever).
 
 ## Contributing
 
