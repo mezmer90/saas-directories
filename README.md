@@ -45,9 +45,9 @@ csvgrep -c link_type -m Dofollow saas-directories.csv \
 
 Getting listed is the easy half. The part that actually moves the needle — and the part most founders quietly dread — is showing up *consistently* afterward: the launch-day posts, the follow-up threads, the carousels, the blog content that keeps a new product visible once the launch bump fades.
 
-That's the problem we spend our days on at **[AI Brand Factory](https://aibrandfactory.com)**. We're putting the finishing touches on a tool that turns a few details about your product into ready-to-post blog articles, social posts, carousels, and other content built specifically to promote a SaaS — in your voice, not generic filler.
+That's the problem we spend our days on at **[AI Brand Factory](https://www.aibrandfactory.com)**. We're putting the finishing touches on a tool that turns a few details about your product into ready-to-post blog articles, social posts, carousels, and other content built specifically to promote a SaaS — in your voice, not generic filler. Everything lands in one place — your content **[Vault](https://vault.aibrandfactory.com)** — ready to schedule and ship.
 
-If that's useful to you, we're letting a small group in early: **[request beta access →](https://aibrandfactory.com)**. No pitch, no spam — just early access and a say in what we build.
+If that's useful to you, we're letting a small group into the Vault early: **[request beta access →](https://vault.aibrandfactory.com)**. No pitch, no spam — just early access and a say in what we build.
 
 ## Contributing
 
@@ -59,4 +59,4 @@ The dataset is released under [CC BY 4.0](./LICENSE) — free to use, share, and
 
 ---
 
-<sub>Maintained by the team at [AI Brand Factory](https://aibrandfactory.com) · we build content tools for SaaS founders. If this list saved you time, a ⭐ helps others find it.</sub>
+<sub>Maintained by the team at [AI Brand Factory](https://www.aibrandfactory.com) · we build content tools for SaaS founders. If this list saved you time, a ⭐ helps others find it.</sub>
